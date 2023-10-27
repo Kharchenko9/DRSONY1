@@ -1,13 +1,14 @@
-body{
+ body{
    background-color: black
    
 }
 
-.centered-texs {
+.centered-text{
 	text-align: center;
 }
 
-.centered-containre {
+
+ .centered-containre {
 	display: flex;
 	justify-content: center;
 	align-items: center;
